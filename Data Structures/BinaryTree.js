@@ -1,5 +1,5 @@
 (function() {
-    
+    //sample comment
     var BinaryTree = function() {
             this.root = null;
         },

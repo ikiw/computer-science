@@ -30,7 +30,6 @@
     queue.enqueue(3);
     queue.dequeue();
     
-    // 2, 3
     console.log(queue);
 
     
