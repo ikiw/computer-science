@@ -1,5 +1,5 @@
 (function() {
-    
+    // sample comment queue
     var Queue = function() {
         this.tail     = -1;
         this._queue   = [];
